@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AFPA_CalculatriceReact/static/css/main.6f2e5a85.css",
+    "main.js": "/AFPA_CalculatriceReact/static/js/main.9b5793a9.js",
+    "static/js/787.cb4d3eb5.chunk.js": "/AFPA_CalculatriceReact/static/js/787.cb4d3eb5.chunk.js",
+    "index.html": "/AFPA_CalculatriceReact/index.html",
+    "main.6f2e5a85.css.map": "/AFPA_CalculatriceReact/static/css/main.6f2e5a85.css.map",
+    "main.9b5793a9.js.map": "/AFPA_CalculatriceReact/static/js/main.9b5793a9.js.map",
+    "787.cb4d3eb5.chunk.js.map": "/AFPA_CalculatriceReact/static/js/787.cb4d3eb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f2e5a85.css",
+    "static/js/main.9b5793a9.js"
+  ]
+}
