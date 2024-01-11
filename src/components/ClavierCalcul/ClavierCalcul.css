@@ -1,0 +1,15 @@
+.clavier  {
+    background-color: rgb(247, 233, 217);
+   width: 100%;
+    
+    padding: 10px 0px;
+}
+
+.calculette  {
+    width: 300px;
+    text-align: center;
+    margin: 25px auto;
+    
+    border: 3px solid black;
+    box-shadow: 5px 5px 3px gray;
+}

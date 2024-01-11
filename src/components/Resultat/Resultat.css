@@ -1,0 +1,9 @@
+.resultat  { 
+    width: 100%;
+    min-height: 80px;
+    text-align: end;
+    font-size: 2rem;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+}
